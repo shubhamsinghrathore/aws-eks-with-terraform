@@ -9,7 +9,7 @@ A production-ready, modular, and easy-to-use Terraform configuration for deployi
 - **EKS Cluster**: Deploys an EKS cluster with managed node groups and essential addons (CoreDNS, kube-proxy, VPC CNI).
 - **Spot Instances**: Supports cost-effective node groups using EC2 Spot Instances.
 - **Tagging**: Consistent resource tagging for easy management.
-- **Customizable**: Easily adjust subnets, instance types, and scaling parameters.
+
 
 ## Folder Structure
 
